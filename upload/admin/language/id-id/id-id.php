@@ -24,7 +24,7 @@ $_['text_close']                    = 'Tutup';
 $_['text_pagination']               = 'Menampilkan %d sampai %d dari %d (%d Halaman)';
 $_['text_loading']                  = 'Memuat...';
 $_['text_no_results']               = 'Tidak ada hasil!';
-$_['text_confirm']                  = 'Apakah anda yakin?';
+$_['text_confirm']                  = 'Apakah Anda yakin?';
 $_['text_home']                     = 'Beranda';
 
 // Button
