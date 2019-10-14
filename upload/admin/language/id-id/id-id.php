@@ -142,7 +142,7 @@ $_['tab_action']                    = 'Tindakan';
 $_['tab_google']                    = 'Google';
 
 // Error
-$_['error_exception']               = 'Kode Galat(%s): %s di %s pada baris ke %s';
+$_['error_exception']               = 'Kode Error(%s): %s di %s pada baris ke %s';
 $_['error_upload_1']                = 'Peringatan: Berkas yang diunggah melebihi direktif upload_max_filesize dalam php.ini!';
 $_['error_upload_2']                = 'Peringatan: Berkas yang diunggah melampaui direktif MAX_FILE_SIZE yang ditentukan dalam bentuk HTML!';
 $_['error_upload_3']                = 'Peringatan: Berkas yang diunggah hanya diunggah sebagian!';
