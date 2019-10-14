@@ -1,0 +1,173 @@
+<?php
+// Heading
+$_['heading_title']					= 'PayPal Pro iFrame';
+
+// Text
+$_['text_success'] = 'Sukses: Anda telah mengubah detail akun PayPal Pro iFrame!';
+$_['text_edit'] = 'Edit PayPal Pro iFrame';
+$_['text_pp_pro_iframe'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"> <img src = "tampilan / gambar / pembayaran / paypal .png "alt =" Pro Pembayaran Situs Web PayPal "title =" Pro Pembayaran Situs Web PayPal iFrame "style =" border: 1px solid #EEEEEE; " /> </a> ';
+$_['text_authorization'] = 'Otorisasi';
+$_['text_sale'] = 'Penjualan';
+$_['text_payment_info'] = 'Informasi pembayaran';
+$_['text_capture_status'] = 'Status pengambilan';
+$_['text_amount_auth'] = 'Jumlah diotorisasi';
+$_['text_amount_captured'] = 'Jumlah yang ditangkap';
+$_['text_amount_refunded'] = 'Jumlah yang dikembalikan';
+$_['text_capture_amount'] = 'Jumlah pengambilan';
+$_['text_complete_capture'] = 'Tangkapan lengkap';
+$_['text_transactions'] = 'Transaksi';
+$_['text_complete'] = 'Selesai';
+$_['text_confirm_void'] = 'Jika Anda membatalkan, Anda tidak dapat mengambil dana lebih lanjut';
+$_['text_view'] = 'Lihat';
+$_['text_refund'] = 'Pengembalian Uang';
+$_['text_resend'] = 'Kirim Ulang';
+$_['text_reauthorise'] = 'Reauthorise';
+$_['text_reauthorised'] = 'Transaksi diautorisasi ulang';
+$_['text_transaction'] = 'Transaksi';
+$_['text_product_lines'] = 'Lini produk';
+$_['text_ebay_txn_id'] = 'ID transaksi eBay';
+$_['text_name'] = 'Nama';
+$_['text_qty'] = 'Jumlah';
+$_['text_price'] = 'Harga';
+$_['text_number'] = 'Number';
+$_['text_coupon_id'] = 'ID Kupon';
+$_['text_coupon_amount'] = 'Jumlah kupon';
+$_['text_coupon_currency'] = 'Mata uang kupon';
+$_['text_loyalty_disc_amt'] = 'Jumlah disk kartu loyalitas';
+$_['text_loyalty_currency'] = 'Mata uang kartu loyalitas';
+$_['text_options_name'] = 'Nama opsi';
+$_['text_tax_amt'] = 'Jumlah pajak';
+$_['text_currency_code'] = 'Kode mata uang';
+$_['text_amount'] = 'Jumlah';
+$_['text_gift_msg'] = 'Pesan hadiah';
+$_['text_gift_receipt'] = 'Kwitansi hadiah';
+$_['text_gift_wrap_name'] = 'Nama bungkus hadiah';
+$_['text_gift_wrap_amt'] = 'Jumlah bungkus hadiah';
+$_['text_buyer_email_market'] = 'Email pemasaran pembeli';
+$_['text_survey_question'] = 'Pertanyaan survei';
+$_['text_survey_chosen'] = 'Pilihan survei dipilih';
+$_['text_receiver_business'] = 'Bisnis penerima';
+$_['text_receiver_email'] = 'Email penerima';
+$_['text_receiver_id'] = 'ID Penerima';
+$_['text_buyer_email'] = 'Email pembeli';
+$_['text_payer_id'] = 'ID Pembayar';
+$_['text_payer_status'] = 'Status pembayar';
+$_['text_country_code'] = 'Kode negara';
+$_['text_payer_business'] = 'Bisnis pembayar';
+$_['text_payer_salute'] = 'Salam pembayaran';
+$_['text_payer_firstname'] = 'Nama depan pembayar';
+$_['text_payer_middlename'] = 'Nama tengah pembayar';
+$_['text_payer_lastname'] = 'Nama belakang pembayar';
+$_['text_payer_suffix'] = 'Sufiks pembayar';
+$_['text_address_owner'] = 'Pemilik alamat';
+$_['text_address_status'] = 'Status alamat';
+$_['text_ship_sec_name'] = 'Kirim ke nama sekunder';
+$_['text_ship_name'] = 'Kirim ke nama';
+$_['text_ship_street1'] = 'Kirim ke alamat 1';
+$_['text_ship_street2'] = 'Kirim ke alamat 2';
+$_['text_ship_city'] = 'Kirim ke kota';
+$_['text_ship_state'] = 'Kirim ke negara';
+$_['text_ship_zip'] = 'Kirim ke ZIP';
+$_['text_ship_country'] = 'Kirim ke kode negara';
+$_['text_ship_phone'] = 'Kirim ke nomor telepon';
+$_['text_ship_sec_add1'] = 'Kirim ke alamat sekunder 1';
+$_['text_ship_sec_add2'] = 'Kirim ke alamat sekunder 2';
+$_['text_ship_sec_city'] = 'Kirim ke kota sekunder';
+$_['text_ship_sec_state'] = 'Kirim ke status sekunder';
+$_['text_ship_sec_zip'] = 'Kirim ke ZIP sekunder';
+$_['text_ship_sec_country'] = 'Kirim ke kode negara sekunder';
+$_['text_ship_sec_phone'] = 'Kirim ke telepon sekunder';
+$_['text_trans_id'] = 'ID Transaksi';
+$_['text_receipt_id'] = 'ID Penerimaan';
+$_['text_parent_trans_id'] = 'ID transaksi induk';
+$_['text_trans_type'] = 'Jenis transaksi';
+$_['text_payment_type'] = 'Jenis pembayaran';
+$_['text_order_time'] = 'Waktu pemesanan';
+$_['text_fee_amount'] = 'Jumlah biaya';
+$_['text_settle_amount'] = 'Jumlah penyelesaian';
+$_['text_tax_amount'] = 'Jumlah pajak';
+$_['text_exchange'] = 'Nilai tukar';
+$_['text_payment_status'] = 'Status pembayaran';
+$_['text_pending_reason'] = 'Alasan tertunda';
+$_['text_reason_code'] = 'Kode alasan';
+$_['text_protect_elig'] = 'Kelayakan perlindungan';
+$_['text_protect_elig_type'] = 'Jenis kelayakan perlindungan';
+$_['text_store_id'] = 'Store ID';
+$_['text_terminal_id'] = 'ID Terminal';
+$_['text_invoice_number'] = 'Nomor faktur';
+$_['text_custom'] = 'Custom';
+$_['text_note'] = 'Catatan';
+$_['text_sales_tax'] = 'Pajak penjualan';
+$_['text_buyer_id'] = 'ID Pembeli';
+$_['text_close_date'] = 'Tanggal penutupan';
+$_['text_multi_item'] = 'Multi item';
+$_['text_sub_amt'] = 'Jumlah langganan';
+$_['text_sub_ Period'] = 'Periode berlangganan';
+$_['text_redirect'] = 'Redirect';
+$_['text_iframe'] = 'Iframe';
+$_['help_checkout_method'] = "Silakan gunakan metode Redirect jika tidak memiliki SSL yang diinstal atau jika Anda tidak memiliki opsi Bayar dengan PayPal dinonaktifkan pada halaman pembayaran Anda yang dihosting.";
+$_['help_debug'] = "Mencatat informasi tambahan.";
+
+// Column
+$_['column_trans_id'] = 'ID Transaksi';
+$_['column_amount'] = 'Jumlah';
+$_['column_type'] = 'Jenis pembayaran';
+$_['column_status'] = 'Status';
+$_['column_pend_reason'] = 'Alasan tertunda';
+$_['column_date_added'] = 'Dibuat';
+$_['column_action'] = 'Tindakan';
+
+// Tab
+$_['tab_settings']					= 'Pengaturan';
+$_['tab_order_status']				= 'Order Status';
+$_['tab_checkout_customisation']	= 'Checkout Customisation';
+
+// Entry
+$_['entry_username'] = 'Nama Pengguna API';
+$_['entry_password'] = 'Kata Sandi API';
+$_['entry_signature'] = 'Tanda Tangan API';
+$_['entry_test'] = 'Mode Uji';
+$_['entry_total'] = 'Jumlah';
+$_['entry_order_status'] = 'Status Pemesanan:';
+$_['entry_geo_zone'] = 'Zona Geo:';
+$_['entry_status'] = 'Status:';
+$_['entry_sort_order'] = 'Urutkan Urutan:';
+$_['entry_transaction_method'] = 'Metode transaksi:';
+$_['entry_transaction_id'] = 'ID Transaksi';
+$_['entry_full_refund'] = 'Pengembalian dana penuh';
+$_['entry_amount'] = 'Jumlah';
+$_['entry_message'] = 'Pesan';
+$_['entry_ipn_url'] = 'URL IPN:';
+$_['entry_checkout_method'] = 'Metode Checkout:';
+$_['entry_debug'] = 'Mode debug:';
+$_['entry_canceled_reversal_status'] = 'Status Pembalikan Dibatalkan:';
+$_['entry_completed_status'] = 'Status Lengkap:';
+$_['entry_denied_status'] = 'Status Ditolak:';
+$_['entry_expired_status'] = 'Status Kedaluwarsa:';
+$_['entry_failed_status'] = 'Status Gagal:';
+$_['entry_pending_status'] = 'Status Pending:';
+$_['entry_processed_status'] = 'Status Diproses:';
+$_['entry_refunded_status'] = 'Status Pengembalian Dana:';
+$_['entry_reversed_status'] = 'Status Terbalik:';
+$_['entry_voided_status'] = 'Status Void:';
+
+// Help
+$_['help_test'] = 'Gunakan server gateway langsung atau pengujian (kotak pasir) untuk memproses transaksi? Tes mungkin gagal di Internet Explorer ';
+$_['help_total'] = 'Total checkout yang harus dicapai sebelum metode pembayaran ini menjadi aktif';
+
+// Button
+$_['button_refund'] = 'Pengembalian Uang';
+$_['button_void'] = 'Void';
+$_['button_capture'] = 'Capture';
+$_['button_reauthorise'] = 'Reauthorise';
+
+// Error
+$_['error_permission'] = 'Peringatan: Anda tidak memiliki izin untuk mengubah pembayaran PayPal Pro Pembayaran Situs Web iFrame (UK)!';
+$_['error_sig'] = 'Dibutuhkan Tanda Tangan!';
+$_['error_user'] = 'Diperlukan Pengguna!';
+$_['error_password'] = 'Diperlukan Kata Sandi!';
+$_['error_timeout'] = 'Permintaan habis waktu';
+$_['error_transaction_missing'] = 'Tidak dapat menemukan transaksi';
+$_['error_missing_data'] = 'Data tidak ada';
+$_['error_general'] = 'Terjadi kesalahan';
+$_['error_capture_amt'] = 'Masukkan jumlah untuk ditangkap';
