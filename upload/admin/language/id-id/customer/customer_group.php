@@ -16,7 +16,7 @@ $_['column_action']     = 'Aksi';
 // Entry
 $_['entry_name']        = 'Nama Kelompok Pelanggan';
 $_['entry_description'] = 'Deskripsi';
-$_['entry_approval']    = 'Otomatis Approve Customer Baru';
+$_['entry_approval']    = 'Customer baru perlu persetujuan Admin';
 $_['entry_sort_order']  = 'Urutan';
 
 // Help

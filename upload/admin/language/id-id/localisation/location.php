@@ -19,7 +19,7 @@ $_['column_action']    = 'Tindakan';
 // Entry
 $_['entry_name']       = 'Nama toko';
 $_['entry_address']    = 'Alamat';
-$_['entry_geocode']    = 'Kode Pos';
+$_['entry_geocode']    = 'Koordinat Geografis';
 $_['entry_telephone']  = 'Telepon';
 $_['entry_fax']        = 'Fax';
 $_['entry_image']      = 'Gambar';
@@ -27,7 +27,7 @@ $_['entry_open']       = 'Jam Buka';
 $_['entry_comment']    = 'Komentar';
 
 // Help
-$_['help_geocode']     = 'Masukan Lokasi Kode Pos toko anda manual.';
+$_['help_geocode']     = 'Masukan Koordinat Lokasi toko Anda';
 $_['help_open']        = 'Isi Jam Buka Toko Anda.';
 $_['help_comment']     = 'Bidang ini adalah untuk catatan khusus yang Anda ingin memberitahu pelanggan yaitu toko tidak menerima cek.';
 

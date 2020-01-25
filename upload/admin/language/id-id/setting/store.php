@@ -77,7 +77,7 @@ $_['entry_secure']                     = 'Gunakan SSL';
 // Help
 $_['help_url']                         = 'Masukkan URL lengkap ke toko Anda. Pastikan untuk menambahkan \'/\' di akhir. Contoh: http://www.yourdomain.com/path/ <br /> <br /> Jangan gunakan direktori untuk membuat toko baru. Anda harus selalu mengarahkan domain atau sub domain lain ke hosting Anda. ';
 $_['help_ssl']                         = 'URL SSL ke toko Anda. Pastikan untuk menambahkan \'/\' di akhir. Contoh: http://www.yourdomain.com/path/ <br /> <br /> Jangan gunakan direktori untuk membuat toko baru. Anda harus selalu mengarahkan domain atau sub domain lain ke hosting Anda. ';
-$_['help_geocode']                     = 'Masukan Lokasi Kode Pos toko anda manual.';
+$_['help_geocode']                     = 'Masukan Koordinat Geo Lokasi toko Anda.';
 $_['help_open']                        = 'Isi Jam Buka Toko Anda.';
 $_['help_comment']                     = 'Bidang ini adalah untuk catatan khusus yang Anda ingin memberitahu pelanggan yaitu toko tidak menerima cek.';
 $_['help_location']                    = 'Lokasi toko yang berbeda yang Anda miliki yang Anda inginkan tampilkan pada kontak kami.';
