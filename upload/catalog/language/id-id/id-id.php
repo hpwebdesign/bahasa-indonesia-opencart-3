@@ -67,3 +67,6 @@ $_['error_upload_6']        = 'Peringatan: Folder temporari hilang!';
 $_['error_upload_7']        = 'Peringatan: Berkas gagal ditulis ke disk!';
 $_['error_upload_8']        = 'Peringatan: Unduhan dihentikan oleh ekstensi!';
 $_['error_upload_999']      = 'Peringatan: Tidak tersedia kode galat untuk kesalahan ini!';
+
+// Datepicker
+$_['datepicker']            = 'id';
