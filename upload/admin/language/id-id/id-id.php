@@ -153,4 +153,4 @@ $_['error_upload_8']                = 'Peringatan: Unduhan dihentikan oleh ekste
 $_['error_upload_999']              = 'Peringatan: Tidak tersedia kode galat untuk kesalahan ini!';
 
 // Datepicker
-$_['datepicker']                    = 'id';
+$_['datepicker']                    = 'id-id';
