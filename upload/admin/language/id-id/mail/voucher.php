@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']  = 'Anda telah menerima voucher hadiah dari %s';
-$_['text_greeting'] = 'Selamat, Anda telah menerima Gift Certificate senilai %s';
-$_['text_from']     = 'Gift Certificate ini telah dikirim kepada anda oleh %s';
-$_['text_message']  = 'Dengan menyampaikan pesan';
-$_['text_redeem']   = 'Untuk menukarkan Gift Certificate ini, tuliskankode penukaran ini <b>%s</b> lalu klik link berikut dan silahkan gunakan voucher belanja ini pada produk yang Anda belanjakan. Anda dapat memasukkan kode voucher pada halaman keranjang belanja sebelum menekan tombol checkout.';
-$_['text_footer']   = 'Silakan balas ke email ini jika anda memiliki pertanyaan.';
+$_['text_subject']  = 'You have been sent a gift certificate from %s';
+$_['text_greeting'] = 'Congratulations, You have received a Gift Certificate worth %s';
+$_['text_from']     = 'This Gift Certificate has been sent to you by %s';
+$_['text_message']  = 'With a message saying';
+$_['text_redeem']   = 'To redeem this Gift Certificate, write down the redemption code which is <b>%s</b> then click on the the link below and purchase the product you wish to use this gift certificate on. You can enter the gift certificate code on the shopping cart page before you click checkout.';
+$_['text_footer']   = 'Please reply to this e-mail if you have any questions.';
