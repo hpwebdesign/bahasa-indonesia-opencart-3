@@ -11,6 +11,6 @@ $_['text_order']         = 'Riwayat Pemesanan';
 $_['text_transaction']   = 'Transaksi';
 $_['text_download']      = 'Unduhan';
 $_['text_logout']        = 'Keluar';
-$_['text_checkout']      = 'Kasir';
+$_['text_checkout']      = 'Checkout';
 $_['text_search']        = 'Cari';
 $_['text_all']           = 'Lihat Semua';
