@@ -7,3 +7,11 @@ Paket bahasa Indonesia OpenCart 3 ini telah dikoreksi oleh banyak client dan ber
 Translasi simple dan tepat seseuai padanan Bahasa Indonesia
 
 
+# Kontribusi untuk Translasi yang Lebik Baik!
+Pull request untuk berbagai sugesti perubahan
+
+# OpenCart Indoneia
+HP Web Design - https://hpwebdesign.id  
+- OpenCart Extension Development[https://hpwebdesign.id]
+- Toko Online OpenCart[https://hpwebdesign.id/toko-online-opencart]
+
