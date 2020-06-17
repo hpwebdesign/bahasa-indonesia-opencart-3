@@ -10,7 +10,7 @@ Translasi simple dan tepat seseuai padanan Bahasa Indonesia
 # Kontribusi untuk Translasi yang Lebik Baik!
 Pull request untuk berbagai sugesti perubahan
 
-# OpenCart Indoneia
+# OpenCart Indonesia
 HP Web Design - https://hpwebdesign.id  
 - [OpenCart Extension Development](https://hpwebdesign.id)
 - [Toko Online OpenCart Premium](https://hpwebdesign.id/toko-online-opencart)
