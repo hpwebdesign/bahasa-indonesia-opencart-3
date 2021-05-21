@@ -1,8 +1,9 @@
 <?php
 // Text
 $_['text_subject']          = '%s - Order %s';
-$_['text_new_greeting']         = 'Terima kasih atas minat anda terhadap produk %s. Pesanan anda telah diterima dan akan diproses setelah konfirmasi pembayaran.';
-$_['text_link']             = 'To view your order click on the link below:';
+$_['text_new_greeting']     = 'Terima kasih atas minat anda terhadap produk %s. Pesanan anda telah diterima dan akan diproses setelah konfirmasi pembayaran.';
+$_['text_greeting']         = 'Terima kasih atas minat anda terhadap produk %s. Pesanan anda telah diterima dan akan diproses setelah konfirmasi pembayaran.';
+$_['text_link']             = 'Untuk melihat pesanan Anda, klik tautan di bawah ini:';
 $_['text_order_detail']     = 'Detail Pesanan';
 $_['text_instruction']      = 'Instruksi';
 $_['text_order_id']         = 'Order ID:';
@@ -22,6 +23,6 @@ $_['text_quantity']         = 'Jumlah';
 $_['text_price']            = 'Harga';
 $_['text_order_total']      = 'Total Order';
 $_['text_total']            = 'Total';
-$_['text_download']         = 'Once your payment has been confirmed you can click on the link below to access your downloadable products:';
-$_['text_comment']          = 'The comments for your order are:';
-$_['text_footer']           = 'Please reply to this e-mail if you have any questions.';
+$_['text_download']         = 'Setelah pembayaran Anda dikonfirmasi, Anda dapat mengklik tautan di bawah ini untuk mengakses produk yang dapat diunduh:';
+$_['text_comment']          = 'Komentar untuk pesanan Anda adalah:';
+$_['text_footer']           = 'Silakan balas email ini jika Anda memiliki pertanyaan.';
