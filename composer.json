@@ -1,0 +1,19 @@
+{
+    "name": "hpwebdesign/framework",
+    "description": "Extension development framework",
+    "type": "template",
+    "authors": [
+        {
+            "name": "HP Web Design",
+            "email": "support@hpwebdesign.io"
+        }
+    ],
+    "require": {
+        "henrikbjorn/lurker": "^1.2",
+        "consolidation/robo": "^1.4",
+        "vlucas/phpdotenv": "^3.5",
+        "nicolab/php-ftp-client": "^1.6",
+        "hugsbrugs/php-sftp": "^1.1",
+        "teqneers/php-stream-wrapper-for-git": "^2.0"
+    }
+}
