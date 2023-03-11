@@ -22,10 +22,10 @@ $_['column_action']    = 'Aksi';
 // Entry
 $_['entry_store']      = 'Toko';
 $_['entry_language']   = 'Bahasa';
-$_['entry_route']      = 'Rute Tautan';
-$_['entry_key']        = 'Kunci Pengaman';
+$_['entry_route']      = 'Rute';
+$_['entry_key']        = 'Variabel Bahasa';
 $_['entry_default']    = 'Standar';
-$_['entry_value']      = 'Keterangan Nilai';
+$_['entry_value']      = 'Variabel Baru';
 
 // Error
 $_['error_permission'] = 'Peringatan: Anda tidak diizinkan untuk mengubah fungsi Pengubah Bahasa!';
