@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Surat';
+$_['heading_title']        = 'Email';
 
 // Text
 $_['text_success']         = 'Pesan Anda telah berhasil dikirimkan!';
