@@ -12,6 +12,6 @@ Pull request untuk berbagai sugesti perubahan
 
 # OpenCart Indonesia
 HP Web Design - https://hpwebdesign.id  
-- [OpenCart Extension Development](https://hpwebdesign.id)
+- [OpenCart Extension Development](https://opencart.id)
 - [Toko Online OpenCart Premium](https://hpwebdesign.id/toko-online-opencart)
 
