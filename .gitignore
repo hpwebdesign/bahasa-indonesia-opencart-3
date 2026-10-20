@@ -5,3 +5,6 @@ vendor/
 build/
 distribution/
 RoboFile.php
+composer.json
+composer.lock
+vendor
