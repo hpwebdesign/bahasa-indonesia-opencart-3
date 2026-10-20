@@ -11,7 +11,8 @@ Translasi simple dan tepat seseuai padanan Bahasa Indonesia
 Pull request untuk berbagai sugesti perubahan
 
 # OpenCart Indonesia
-HP Web Design - https://hpwebdesign.id  
+
+https://opencart.id  
 - [OpenCart Extension Development](https://opencart.id)
-- [Toko Online OpenCart Premium](https://hpwebdesign.id/toko-online-opencart)
+- [Toko Online OpenCart Premium](https://opencart.id/toko-online-opencart)
 
